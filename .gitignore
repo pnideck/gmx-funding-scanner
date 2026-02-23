@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE / editor
+.cursor/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Debug / local
+debug_output.ndjson
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
